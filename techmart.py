@@ -1,6 +1,4 @@
 # TechMart Pro - Electronics Shop Management System
-# Module 8 Submission: Backup and Export Module — Complete Application
-# All modules fully enabled. This is the final complete submission.
 
 import tkinter as tk
 from tkinter import ttk, messagebox
